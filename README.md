@@ -12,7 +12,7 @@
 
 ## Features
 
-A simple menu to conncet my social media usin CSS and HTML
+A simple menu to connect my social media usin CSS and HTML
 
 ## How to use
 
