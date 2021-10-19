@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500&display=swap');
+
+:root {
+  --bg-color-primary: #44475A;
+  --bg-color-secondary: #282A36;
+  --txt-color:#F8F8F2;
+  --btn-color-primary:#50FA7B;
+  --btn-color-secondary: #FF79C6;  
+}
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background: var(--bg-color-secondary);
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+.container {
+  text-align: center;
+  width: 100%;
+  max-width: 440px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h1{
+  color: var(--btn-color-primary);
+}
+
+a{
+  
+  text-decoration: none;
+  color: var(--btn-color-primary)
+}
+
+.link-item {
+	border: 1px solid var(--btn-color-primary);
+	box-sizing: border-box;
+	margin: 20px auto;
+	color: var(--btn-color-primary);
+	padding: 15px;
+	text-align: center;
+	transition: all 0.15s;
+	border-radius: 10px;
+}
+
+.link-item:hover{
+  border-color: var(--btn-color-secondary);
+  color: var(--btn-color-secondary);
+
+}
