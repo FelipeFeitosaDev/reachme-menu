@@ -1,6 +1,6 @@
 # reachme-menu
 
-
+<img align="center" width="60%" margin-bottom="80px" src="https://github.com/FelipeFeitosaDev/task-list/blob/master/assets/images/menu-profile.png" style="max-width:100%;">
 
 ## Technologies Used
 
