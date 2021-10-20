@@ -2,10 +2,10 @@
 
 :root {
   --bg-color-primary: #44475A;
-  --bg-color-secondary: #282A36;
+  --bg-color-secondary: #F0F0F2;
   --txt-color:#F8F8F2;
-  --btn-color-primary:#50FA7B;
-  --btn-color-secondary: #FF79C6;  
+  --btn-color-primary:#0D0D0D;
+  --btn-color-secondary: #5639BF;  
 }
 
 * {
@@ -56,4 +56,8 @@ a{
   border-color: var(--btn-color-secondary);
   color: var(--btn-color-secondary);
 
+}
+
+.avatar{
+  width: 50%;
 }
