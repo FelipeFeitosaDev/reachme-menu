@@ -53,8 +53,8 @@ a{
 }
 
 .link-item:hover{
-  border-color: var(--btn-color-secondary);
-  color: var(--btn-color-secondary);
+ background-color: var(--btn-color-primary);
+color: var(--txt-color);
 
 }
 
