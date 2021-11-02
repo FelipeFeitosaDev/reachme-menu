@@ -53,8 +53,9 @@ a{
 }
 
 .link-item:hover{
- background-color: #ffd106;
+ background-color: #fdb426;
 color: var(--btn-color-primary);
+border: none;
 
 }
 
